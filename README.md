@@ -6,7 +6,7 @@
 
 # Бот для [GoblinMinerBot](https://t.me/GoblinMine_bot/start?startapp=1092379081)
 
-![img1](.github/images/start.png)
+![img1](.github/images/img.png)
 
 # Делает все
 

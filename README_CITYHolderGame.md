@@ -5,10 +5,9 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cityholder/game?startapp=1092379081
 )
 
-# Бот для [CITYHolderGame](https://t.me/cityholder/game?startapp=1092379081
-)
+# Бот для [CITYHolderGame](https://t.me/cityholder/game?startapp=1092379081)
 
-![img1](.github/images/img.png)
+![image](.github/images/CITYHolderGame.png)
 
 # Делает все
 1. Тапает

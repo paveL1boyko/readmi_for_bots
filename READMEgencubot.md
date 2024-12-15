@@ -2,12 +2,9 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/GenkiMinerBot/GenkiMiner?startapp=7V_OoUyrXXX0
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/GenkiMinerBot/GenkiMiner?startapp=7V_OoUyrXXX0)
 
-)
-
-# Бот для [GenkiMinerGame](https://t.me/GenkiMinerBot/GenkiMiner?startapp=7V_OoUyrXXX0
-)
+# Бот для [GenkiMinerGame](https://t.me/GenkiMinerBot/GenkiMiner?startapp=7V_OoUyrXXX0)
 
 ![image](.github/images/img_1.png)
 
